@@ -1,7 +1,7 @@
 import bcrypt from "bcrypt";
 import Medicine from "../models/Medicine.mjs"; // Import MedicineSchema
 import Medical from "../models/Medical.mjs"; // Import MedicalSchema
-import PayPal from "../models/PayPal.mjs"; // Import PayPalSchema (nếu có)
+// import PayPal from "../models/PayPal.mjs"; // Import PayPalSchema (nếu có)
 import User from "../models/User.mjs";
 
 const doctorController = {
